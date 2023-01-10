@@ -165,6 +165,9 @@ p {
         justify-content: center;
         padding-right: 10%;
     }
+    p{
+        font-size: small;
+    }
 
     #logojard1,#logojard2,#logojard3{
         display: block;
