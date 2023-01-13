@@ -132,15 +132,14 @@ p {
 
 .footerbg1,.footerbg2,.footerbg3 {
     padding-top: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 25px;
     display: flex;
     background-color: black;
 }
 
-.bottomtext1,.bottomtext2,.bottomtext3 {
+.bottomtext3 {
     display: flex;
     flex-direction: row;
-    padding-left: 50px;
 }
 
 /*tableau*/
@@ -183,6 +182,20 @@ p {
         width: 100%;
         padding-top: 1%;
         background-color:orangered;
+    }
+    .bottomtext3 {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .bottomtext3: li ;
+    {
+        text-align: center;
+        
+        
+
     }
 }
 
